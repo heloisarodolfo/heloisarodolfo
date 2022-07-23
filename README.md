@@ -21,5 +21,5 @@
  
 </div>
 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🌱 Estou aprendendo JavaScript
+- 😄 Ela/Dela
