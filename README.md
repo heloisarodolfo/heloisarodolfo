@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
 <h3 align="center">just a programming student looking for a future</h3>
 
-- 📫 How to reach me **heloisarodolfo.dev@gmail.com**
+- 📫 How to reach me **heloisacristinarodolfo@gmail.com**
 
 - ⚡ Fun fact **I like to help solve problems**
 
