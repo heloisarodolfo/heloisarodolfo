@@ -20,8 +20,6 @@
 <a href="https://discord.gg/louu#3550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="louu#3550" height="30" width="40" /></a>
 </p>
  
- 
-![Snake animation](https://github.com/heloisarodolfo/heloisarodolfo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
