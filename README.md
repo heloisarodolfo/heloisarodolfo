@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Heloisa Rodolfo!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Heloisa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Heloisa Rodolfo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 
