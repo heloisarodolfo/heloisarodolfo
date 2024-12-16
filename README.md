@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Heloisa Rodolfo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Develcode como Estágiaria de Desenvolvimento<br/> Eu sou desenvolvedora Front-End</p>
+<p>Trabalhando na Develcode<br/> Eu sou desenvolvedora Front-End</p>
 
 
 <h3 align="left">I'm currently learning:</h3>
