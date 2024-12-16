@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Heloisa</h1>
-<h3 align="center">just a programming student looking for a future</h3>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="heloisarodolfo">
 
-- 📫 How to reach me **heloisacristinarodolfo@gmail.com**
+### Olá, meu nome é {seu nome}!
 
-- ⚡ Fun fact **I like to help solve problems**
+<img src="https://img.shields.io/static/v1?label=Overview&message=Heloisa Rodolfo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heloisarodolfo&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=252537&locale=en&layout=compact" alt="heloisarodolfo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heloisarodolfo&show_icons=true&theme=dracula&locale=en" alt="heloisarodolfo" /></p>
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 
 
 <h3 align="left">I'm currently learning:</h3>
