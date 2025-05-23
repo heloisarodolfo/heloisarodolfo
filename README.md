@@ -6,9 +6,9 @@
 
 
 <p>
-💼 Estagiária de Desenvolvimento Front-End na <strong>Develcode</strong><br/>
+💼 Estagiária de Desenvolvimento Front-End e IA na <strong>Develcode</strong><br/>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
-🌱 Aprendendo mais sobre React, Node.js e Next.js
+🌱 Aprendendo mais sobre React, Node.js e Python
 </p>
 
 ---
