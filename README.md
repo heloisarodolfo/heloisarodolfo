@@ -6,9 +6,9 @@
 
 
 <p>
-💼 Estagiária de Desenvolvimento Front-End e IA na <strong>Blendus</strong><br/>
+💼 Estagiária de Desenvolvimento Full-stack na <strong>Blendus</strong><br/>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
-🌱 Aprendendo mais sobre React, Node.js e Python
+🌱 Aprendendo mais sobre React, SQL, Angular e TS
 </p>
 
 ---
