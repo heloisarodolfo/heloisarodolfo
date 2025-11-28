@@ -6,7 +6,7 @@
 
 
 <p>
-💼 Estagiária de Desenvolvimento Front-End e IA na <strong>Develcode</strong><br/>
+💼 Estagiária de Desenvolvimento Front-End e IA na <strong>Blendus</strong><br/>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 🌱 Aprendendo mais sobre React, Node.js e Python
 </p>
