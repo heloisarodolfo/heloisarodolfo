@@ -1,12 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=heloisarodolfo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats de Heloisa Rodolfo">
-
 ### Olá, meu nome é Heloisa Rodolfo!
 
 <img src="https://img.shields.io/static/v1?label=Perfil&message=Heloisa%20Rodolfo&color=af552e&style=for-the-badge&logo=GitHub" alt="Perfil GitHub">
 
 
 <p>
-💼 Estagiária de Desenvolvimento Full-stack na <strong>Blendus</strong><br/>
+💼 Desenvolvedora Full-stack na <strong>Blendus</strong><br/>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 🌱 Aprendendo mais sobre React, SQL, Angular e TS
 </p>
